@@ -9,7 +9,7 @@
 <div align="center">
   <h3>
   <a>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://xenodochial-bose-103897.netlify.app/" target="_blank">
       Solution
     </a>
   </h3>
