@@ -92,7 +92,9 @@ span {
   color: #ffffff;
   border-radius: 6px;
 }
-
+input:hover{
+  cursor: pointer;
+}
 h1,
 h2 {
   font-family: "Playfair Display", serif;
